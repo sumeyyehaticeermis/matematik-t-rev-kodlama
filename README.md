@@ -1,1 +1,1 @@
-# matematik-t-rev-kodlama
+# matematik-turev-kodlama
